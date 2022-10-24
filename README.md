@@ -34,3 +34,5 @@
     - LogoutSuccessHandler
 
 [[이전으로]](https://github.com/heechul90/study-security-basic) [[다음으로]](https://github.com/heechul90/study-security-custom-login)
+
+[[복습하기//적용하기]](https://github.com/heechul90/heech-member-server)
